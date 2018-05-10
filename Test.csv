@@ -1,0 +1,8 @@
+﻿Gender,Core_Ind,Parent_Same_LastName,ACU_Distance,PRIZM_HouseholdIncome,QUAL_Familiarity,QUAL_Rank,HS_SIZE,HS_RankPercent,HS_GPA_CALC,NUM_Advanced_Courses,ACT,Visited,Taylor_County,US,Abilene,Texas,CoC,Ethnicity
+1,0,2,1500,75000,3,2,500,70,3.8,5,25,1,0,1,0,0,1,1
+1,1,1,100,90000,1,1,500,70,3.8,5,25,1,0,1,0,1,1,1
+2,1,2,100,150000,4,2,1000,90,4,5,20,0,0,1,0,1,0,2
+1,1,2,561,98951,4,3,435,47.36,3.25,3,23,1,0,1,0,0,0,1
+2,0,2,500,86000,2,1,600,50,3,2,24,1,0,1,0,0,1,1
+2,0,1,168,600000,2,1,400,14,3.4,4,32,1,0,1,0,1,0,1
+1,1,2,30,150000,4,2,4,100,4,7,29,1,1,1,1,1,0,1
